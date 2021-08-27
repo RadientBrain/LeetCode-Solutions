@@ -1,6 +1,6 @@
 //Return the index of the smallest number >= target
 class Solution {
-    public int searchInsert(int[] arr, int target) {	    
+    public int ceil_inSortedArray(int[] arr, int target) {	    
       int start,end,mid;
 	    start = 0;
 	    end = arr.length -1;
