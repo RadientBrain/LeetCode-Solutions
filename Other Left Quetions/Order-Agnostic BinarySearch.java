@@ -3,7 +3,7 @@ class Solution {
         int start = 0;
         int end = nums.length - 1;
         
-        bool checkAsc = nums[start] < nums[end];
+        boolean checkAsc = nums[start] < nums[end];
       
         while(start<=end){
             int mid = start + ((end - start)/2);
