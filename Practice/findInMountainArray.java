@@ -11,8 +11,8 @@ class Solution {
     public int findInMountainArray(int target, MountainArray mountainArr) {
         int x,y,z;
 		x = findPeak(mountainArr);
-		y = bin(mountainArr,0,x,target);
-        if(y==-1){ z = bin(mountainArr,x,mountainArr.length()-1,target); return z; }
+		y = orderAgonisticBin(mountainArr,0,x,target);
+        if(y==-1){ z = orderAgonisticBin(mountainArr,x,mountainArr.length()-1,target); return z; }
         return y;
     }
     
@@ -29,7 +29,7 @@ class Solution {
         return start; // or return end
     }
     
-    public static int bin(MountainArray nums,int start, int end, int target) {
+    public static int orderAgonisticBin(MountainArray nums,int start, int end, int target) {
         
         boolean checkAsc = nums.get(start) < nums.get(end);
       
