@@ -7,6 +7,7 @@ S.No | Question Code. | Question Title | Level | Solution Link
 5 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/searchRange.java)
 6 | NA | [Find position of an element in a sorted array of infinite numbers](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findElement_in_InfiniteArray.java)
 7 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/peakIndexInMountainArray.java)
+8 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findInMountainArray.java)
 
 
 
