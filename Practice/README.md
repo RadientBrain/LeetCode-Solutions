@@ -11,3 +11,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 9 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findInMountainArray.java)
 10 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/rotSearch.java)
 11 | **NA** | [Find the Rotation Count in Rotated Sorted array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/rotCount.java)
+12 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/splitArray.java)
