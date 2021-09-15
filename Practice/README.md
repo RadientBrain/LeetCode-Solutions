@@ -13,3 +13,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 11 | **NA** | [Find the Rotation Count in Rotated Sorted array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/rotCount.java)
 12 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/splitArray.java)
 13 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/sortColors.java)
+14 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/twoSum.java)
