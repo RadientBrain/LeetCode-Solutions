@@ -16,3 +16,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 14 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/twoSum.java)
 15 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/repeatedStringMatch.java)
 16 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/missingNumber.java)
+17 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findDisappearedNumbers.java)
