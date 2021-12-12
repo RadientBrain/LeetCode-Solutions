@@ -17,3 +17,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 15 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/repeatedStringMatch.java)
 16 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/missingNumber.java)
 17 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findDisappearedNumbers.java)
+18 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findDuplicate.java)
