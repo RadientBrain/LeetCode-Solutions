@@ -20,4 +20,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 18 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findDuplicate.java)
 19 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findDuplicates.java)
 20 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findErrorNums.java)
-21 | 41 | [Set Mismatch](https://leetcode.com/problems/first-missing-positive/submissions/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/firstMissingPositive.java)
+21 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/firstMissingPositive.java)
