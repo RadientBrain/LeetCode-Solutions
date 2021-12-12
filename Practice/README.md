@@ -14,4 +14,5 @@ S.No | Question Code. | Question Title | Level | Solution Link
 12 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/splitArray.java)
 13 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/sortColors.java)
 14 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/twoSum.java)
-14 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/repeatedStringMatch.java)
+15 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/repeatedStringMatch.java)
+16 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/missingNumber.java)
