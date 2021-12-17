@@ -1,5 +1,5 @@
 # LeetCode-Solutions
-```Step by step questions to master Java Competitive Programming```
+```Step by step questions to master Competitive Programming```
 
 1. Practice Folder
 2. Interview Prep Folder
