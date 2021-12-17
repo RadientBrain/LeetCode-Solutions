@@ -25,4 +25,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 23 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isValidBST.cpp)
 24 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/reverseString.cpp)
 25 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findMin.cpp)
-26 | 154 | [Find Minimum in Rotated Sorted Array](Find Minimum in Rotated Sorted Array II) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findMinInDuplicates.cpp)
+26 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findMinInDuplicates.cpp)
