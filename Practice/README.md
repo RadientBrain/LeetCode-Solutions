@@ -22,4 +22,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 20 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findErrorNums.java)
 21 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/firstMissingPositive.java)
 22 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/levelOrder.java)
-22 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isValidBST.cpp)
+23 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isValidBST.cpp)
