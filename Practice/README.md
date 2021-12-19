@@ -29,3 +29,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 27 | 215 | [Kth Largest Element in an Array(minHeap)](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findKthLargest(minHeap).java)
 28 | 215 | [Kth Largest Element in an Array(quickSelect)](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findKthLargest(quickSelect).java)
 29 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/sortColors.cpp)
+30 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/moveZeroes.java)
