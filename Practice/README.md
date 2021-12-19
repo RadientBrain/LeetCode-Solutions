@@ -31,3 +31,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 29 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/sortColors.cpp)
 30 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/moveZeroes.java)
 31 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/intersection.java)
+32 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/intersect.java)
