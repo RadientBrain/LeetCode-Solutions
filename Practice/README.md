@@ -34,3 +34,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 32 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/intersect.java)
 33 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/rotate.java)
 34 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/maxSubArray.java)
+35 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/checkSubarraySum.java)
