@@ -36,3 +36,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 34 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/maxSubArray.java)
 35 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/checkSubarraySum.java)
 36 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/getIntersectionNode.java)
+37 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/searchMatrix.java)
