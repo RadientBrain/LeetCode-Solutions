@@ -54,3 +54,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 52 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/maxProfit.java)
 53 | 53 | [Maximum Subarray(cpp)](https://leetcode.com/problems/maximum-subarray/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/maxSubArray.cpp)
 54 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/countBits.java)
+55 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/hasCycle.java)
