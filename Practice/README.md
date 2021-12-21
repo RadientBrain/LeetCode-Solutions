@@ -45,3 +45,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 43 | 217 | [Contains Duplicate(Cpp)](https://leetcode.com/problems/contains-duplicate/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/containsDuplicate(cpp).cpp)
 44 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/lexicalOrder.java)
 45 | 206 | [Reverse Linked List(Iterative)](https://leetcode.com/problems/reverse-linked-list/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/reverseList(iterative).java)
+46 | 206 | [Reverse Linked List(Recursive)](https://leetcode.com/problems/reverse-linked-list/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/reverseList(recursive).cpp)
