@@ -51,3 +51,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 49 | 448 | [Find All Numbers Disappeared in an Array(cpp)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findDisappearedNumbers.cpp)
 50 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/singleNumber.java)
 51 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/climbStairs.java)
+52 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/maxProfit.java)
