@@ -43,3 +43,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 41 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isPalindrome.java)
 42 | 217 | [Contains Duplicate(Java)](https://leetcode.com/problems/contains-duplicate/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/containsDuplicate(java).java)
 43 | 217 | [Contains Duplicate(Cpp)](https://leetcode.com/problems/contains-duplicate/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/containsDuplicate(cpp).cpp)
+44 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/lexicalOrder.java)
