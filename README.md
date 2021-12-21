@@ -7,4 +7,4 @@
 
 Follow the above numbers step by step to get the grasp over questions.
 
-You can also follow ```https://seanprashad.com/leetcode-patterns/```  for more such questions.
+You can also follow [https://seanprashad.com/leetcode-patterns/](https://seanprashad.com/leetcode-patterns/)  for more such questions.
