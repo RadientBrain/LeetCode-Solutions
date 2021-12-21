@@ -49,3 +49,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 47 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/invertTree.java)
 48 | 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/numSplits.java)
 49 | 448 | [Find All Numbers Disappeared in an Array(cpp)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findDisappearedNumbers.cpp)
+50 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/singleNumber.java)
