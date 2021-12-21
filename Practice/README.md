@@ -41,5 +41,5 @@ S.No | Question Code. | Question Title | Level | Solution Link
 39 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/findMaxConsecutiveOnes.java)
 40 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/reverseWords.java)
 41 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isPalindrome.java)
-42 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/containsDuplicate(java).java)
-43 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/containsDuplicate(cpp).cpp)
+42 | 217 | [Contains Duplicate(Java)](https://leetcode.com/problems/contains-duplicate/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/containsDuplicate(java).java)
+43 | 217 | [Contains Duplicate(Cpp)](https://leetcode.com/problems/contains-duplicate/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/containsDuplicate(cpp).cpp)
