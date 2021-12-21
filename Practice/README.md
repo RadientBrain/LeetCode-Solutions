@@ -55,3 +55,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 53 | 53 | [Maximum Subarray(cpp)](https://leetcode.com/problems/maximum-subarray/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/maxSubArray.cpp)
 54 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/countBits.java)
 55 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/hasCycle.java)
+56 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/removeElements.java)
