@@ -47,3 +47,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 45 | 206 | [Reverse Linked List(Iterative)](https://leetcode.com/problems/reverse-linked-list/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/reverseList(iterative).java)
 46 | 206 | [Reverse Linked List(Recursive)](https://leetcode.com/problems/reverse-linked-list/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/reverseList(recursive).cpp)
 47 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/invertTree.java)
+48 | 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/numSplits.java)
