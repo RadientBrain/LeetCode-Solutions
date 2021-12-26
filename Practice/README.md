@@ -62,4 +62,5 @@ S.No | Question Code. | Question Title | Level | Solution Link
 60 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/minDepth.java)
 61 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isSameTree.java)
 62 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/hasPathSum.java)
+63 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/diameterOfBinaryTree.java)
 
