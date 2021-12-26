@@ -61,3 +61,5 @@ S.No | Question Code. | Question Title | Level | Solution Link
 59 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/mergeTwoLists.java)
 60 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/minDepth.java)
 61 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isSameTree.java)
+62 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/hasPathSum.java)
+
