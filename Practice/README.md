@@ -63,4 +63,5 @@ S.No | Question Code. | Question Title | Level | Solution Link
 61 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isSameTree.java)
 62 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/hasPathSum.java)
 63 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/diameterOfBinaryTree.java)
+64 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/mergeTrees.java)
 
