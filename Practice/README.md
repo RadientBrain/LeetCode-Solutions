@@ -69,3 +69,5 @@ S.No | Question Code. | Question Title | Level | Solution Link
 67 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/isSubtree.java)
 68 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/sortedSquares.java)
 69 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/merge.java)
+70 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/backspaceCompare(O(n)%20space).java)
+71 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/backspaceCompare(O(1)%20space).java)
