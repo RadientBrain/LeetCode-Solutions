@@ -71,3 +71,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 69 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/merge.java)
 70 | 844 | [Backspace String Compare - O(n) Space](https://leetcode.com/problems/backspace-string-compare/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/backspaceCompare(O(n)%20space).java)
 71 | 844 | [Backspace String Compare - O(1) Space](https://leetcode.com/problems/backspace-string-compare/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/backspaceCompare(O(1)%20space).java)
+72 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/RangeSumQuery-Immutable.java)
