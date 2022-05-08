@@ -73,3 +73,4 @@ S.No | Question Code. | Question Title | Level | Solution Link
 71 | 844 | [Backspace String Compare - O(1) Space](https://leetcode.com/problems/backspace-string-compare/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/backspaceCompare(O(1)%20space).java)
 72 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/RangeSumQuery-Immutable.java)
 73 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/middleNode.java)
+74 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [:link:](https://github.com/RadientBrain/LeetCode-Solutions/blob/main/Practice/maxArea.java)
